@@ -20,7 +20,7 @@ global.OWNER_NAME = '𝘛𝘖𝘔𝘙𝘛 𝘖𝘍𝘊' // Owner Name
 global.OWNER_NUMBER = ['212645866783'] //Owner Number
 global.BOT_ADMINS = ['212645866783','212645866783'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
-global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
+global.IMAGE_QUALITY = 'high' // Available Quality Are => low | mediam | high
 global.CAPTION = '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ 🇭‌4🇽‌🇽‌ 🇬‌🇵‌🇹‌ 🇧‌🇾‌ 🇹‌🇴‌🇲‌🇷‌🇹‌ ᴀɪ ʙᴏᴛ'
 
 /*
